@@ -1,0 +1,15 @@
+2023-11-17 19:13:40.515799 
+ {'obs_time': 1700234020,
+  'temp': -3,
+   'feels_like': -7,
+   'icon': 'skc_n',
+   'condition': 'clear',
+   'wind_speed': 1.7,
+    'wind_dir': 'ne',
+     'pressure_mm': 753,
+     'pressure_pa': 1003,
+     'humidity': 69,
+     'daytime': 'n',
+     'polar': False,
+     'season': 'autumn',
+     'wind_gust': 3.2}
